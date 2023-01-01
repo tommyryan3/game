@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "socket.io": "^2.2.0",
-    "webpack": "4.39.1",
+    "webpack": "5.75.0",
     "webpack-dev-middleware": "^3.7.0"
   }
 }
